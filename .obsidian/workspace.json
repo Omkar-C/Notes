@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe7e910c1593e95a",
+        "id": "7e580718e1aed2bb",
         "type": "tabs",
         "children": [
           {
-            "id": "d9910dc1ee723241",
+            "id": "40ea1bc8bb6ba644",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometry/Every n Polygon can be Triangulated Into Exactly n-2 Triangles.md",
+                "file": "Prefix/Nearest Different Element in Prefix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Every n Polygon can be Triangulated Into Exactly n-2 Triangles"
+              "title": "Nearest Different Element in Prefix"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#prefixDiff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,12 +174,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9910dc1ee723241",
+  "active": "40ea1bc8bb6ba644",
   "lastOpenFiles": [
-    "Pasted image 20250111230107.png",
-    "Geometry/Every n Polygon can be Triangulated Into Exactly n-2 Triangles.md",
-    "Geometry",
+    "Untitled 1.md",
+    "Prefix/Nearest Different Element in Prefix.md",
+    "Prefix",
+    "Graph/Single Source Shortest Path/Dijkstra Algorithm.md",
+    "Modular Arithmatic/Modular Sum.md",
     "Bits/Bitwise OR for range L to R.md",
+    "Geometry/Every n Polygon can be Triangulated Into Exactly n-2 Triangles.md",
+    "Modular Arithmatic",
+    "Graph/Single Source Shortest Path",
+    "Graph",
+    "Pasted image 20250111230107.png",
+    "Geometry",
     "Pasted image 20250110002602.png",
     "Excalidraw/Drawing 2025-01-10 00.25.10.excalidraw.md",
     "Binary Numbers 1 to 15.png",

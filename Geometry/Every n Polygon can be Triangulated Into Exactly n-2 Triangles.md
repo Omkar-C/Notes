@@ -1,4 +1,4 @@
-
+#geometry #math
 For Every Polygon with n vertices where n >= 3, it can be divided into n-2 triangles using diagonals
 
 ### Proof
