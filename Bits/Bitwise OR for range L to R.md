@@ -1,4 +1,4 @@
-#bitwise 
+#bit
 
 ## Problem Statement 
 Given a range of numbers from (L, R) inclusive, find the bitwise OR of all the numbers in the given range.
